@@ -15,6 +15,10 @@ R= Spotify  manda la canción que quieres escuchar en muchos paquetes, cuando lo
 
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+R=
+
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
- ¿Cómo funciona la búsqueda de google?
- 
+R=Sabiendo cuidadosamente cómo navegar por la web, y no dar click en anuncios o spam que pueda redirigirnos a sitios fraudulentos, que soliciten información personal como nuestro correo electronico y contraseña
+
+¿Cómo funciona la búsqueda de google?
+R= Cuando hacemos una busqueda en google, no estamos utilizando internet en tiempo real, ya que de lo contrario nuestra busqueda taradía demasiado debido a que cada minuto una página nueva es creada, entonces para encontrar tu busqueda la web registra información constantemente y a traves de keywords o palabras clave es como podemos obtener la información que deseamos (aunque el buscador solo está adivinando lo que en verdad quieres saber).
