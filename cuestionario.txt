@@ -1,9 +1,18 @@
 En tus palabras, ¿Qué es internet?
+R= Internet se puede definir como una red global de redes de que tiene la  finalidad de permitir el intercambio libre de información entre todos sus usuarios
+
   Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+
 Describe los protocolos que existen en internet, en específico HTTP y HTML
+
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+
  ¿Cómo funciona la búsqueda de google?
- de
+
+ de elliot xd 
