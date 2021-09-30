@@ -1,3 +1,8 @@
+Cuestionario
+ Elliot García Chávez 
+Luis Fernando Campos Hernández
+4F PREPA UP
+
 1. En tus palabras, ¿Qué es internet?
 R=Internet se puede definir como una red global de redes de que tiene la  finalidad de permitir el intercambio libre de información entre todos sus usuarios.
 
@@ -13,22 +18,22 @@ Las DNS están divididas en varios grupos, como .gob.edu.org etc. para mayor con
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 R= Spotify  manda la canción que quieres escuchar en muchos paquetes, cuando los paquetes llegan a tu computadora el TCP se encarga de revisar que todos los paquetes hayan llegado. Si llegan a faltar paquetes Spotify los mandará de nuevo para que puedas escuchar tu canción con mucha comodidad.
 
-Describe los protocolos que existen en internet, en específico HTTP y HTML
+5. Describe los protocolos que existen en internet, en específico HTTP y HTML
 R= Estos protocolos sirven como una peticion a un servidor una ves que el servidor 
 recive esta petición manda la información solicitada a traves de pequeños paquetes 
 que llegan hasta tu computadora, esto sirve como una clave que nos permite ingresar
 y navegar por internet a traves de el cambio de información. 
 
-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 R= La encriptación sirve para cambier el significado de un mensaje para ser desencriptado y así se pueda comprender
 Las llaves publicas son una especie de datos que pueden ser compartidas en privado pero sin arriesgar tu información o sin tener acceso a tu información (es como el correo electrónico.)
 
-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 R=Sabiendo cuidadosamente cómo navegar por la web, y no dar click en anuncios o spam 
 que pueda redirigirnos a sitios fraudulentos, que soliciten información personal como
 nuestro correo electronico y contraseña.
 
-¿Cómo funciona la búsqueda de google?
+8. ¿Cómo funciona la búsqueda de google?
 R= Cuando hacemos una busqueda en google, no estamos utilizando internet 
 en tiempo real, ya que de lo contrario nuestra busqueda taradía demasiado debido
 a que cada minuto una página nueva es creada, entonces para encontrar tu busqueda 
