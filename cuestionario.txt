@@ -4,34 +4,34 @@ Luis Fernando Campos Hernández
 4F PREPA UP
 
 1. En tus palabras, ¿Qué es internet?
-R=Internet se puede definir como una red global de redes de que tiene la  finalidad de permitir el intercambio libre de información entre todos sus usuarios.
+R=Internet se puede definir como una red global de redes de que tiene la  finalidad de permitir el intercambio libre de información entre todos sus usuarios. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 R= La información se envía por medio de bits, por código binario. A  través de electricidad, luz solar y ondas de radio. Físicamente se puede mandar por cable ethernet y con fibra óptica. 
-En cambio el Wi-fi ondas de radio y la computadora las revierte a código binario.
+En cambio el Wi-fi ondas de radio y la computadora las revierte a código binario. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 R= Todos los dispositivos en el internet tienen direcciones únicas llamado INTERNET PROTOCOL o ‘IP’ y funciona como una dirección de correo físico, ya que le dices a la máquina a donde debe mandar la información, que tiene 2 versiones IPV4 y IPV6
-Las DNS asocian los dominios de los sitios webs con la dirección IP del servidor de dicho sitio web y así te dirigen a él. 
-Las DNS están divididas en varios grupos, como .gob.edu.org etc. para mayor control de ellas y mayor protección.
+Las ip asocian los dominios de los sitios webs con la dirección IP del servidor de dicho sitio web y así te dirigen a él.  <!-- ---- 5oct | @SRTP: ok ----  -->
+Las DNS están divididas en varios grupos, como .gob.edu.org etc. para mayor control de ellas y mayor protección. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-R= Spotify  manda la canción que quieres escuchar en muchos paquetes, cuando los paquetes llegan a tu computadora el TCP se encarga de revisar que todos los paquetes hayan llegado. Si llegan a faltar paquetes Spotify los mandará de nuevo para que puedas escuchar tu canción con mucha comodidad.
+R= Spotify  manda la canción que quieres escuchar en muchos paquetes, cuando los paquetes llegan a tu computadora el TCP se encarga de revisar que todos los paquetes hayan llegado. Si llegan a faltar paquetes Spotify los mandará de nuevo para que puedas escuchar tu canción con mucha comodidad. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 5. Describe los protocolos que existen en internet, en específico HTTP y HTML
 R= Estos protocolos sirven como una peticion a un servidor una ves que el servidor 
 recive esta petición manda la información solicitada a traves de pequeños paquetes 
 que llegan hasta tu computadora, esto sirve como una clave que nos permite ingresar
-y navegar por internet a traves de el cambio de información. 
+y navegar por internet a traves de el cambio de información.  <!-- ---- 5oct | @SRTP: y HTML ? -0.5 ----  -->
 
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 R= La encriptación sirve para cambier el significado de un mensaje para ser desencriptado y así se pueda comprender
-Las llaves publicas son una especie de datos que pueden ser compartidas en privado pero sin arriesgar tu información o sin tener acceso a tu información (es como el correo electrónico.)
+Las llaves publicas son una especie de datos que pueden ser compartidas en privado pero sin arriesgar tu información o sin tener acceso a tu información (es como el correo electrónico.) <!-- ---- 5oct | @SRTP: ok ----  -->
 
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 R=Sabiendo cuidadosamente cómo navegar por la web, y no dar click en anuncios o spam 
 que pueda redirigirnos a sitios fraudulentos, que soliciten información personal como
-nuestro correo electronico y contraseña.
+nuestro correo electronico y contraseña. <!-- ---- 5oct | @SRTP: faltó desarrollar -0.5 ----  -->
 
 8. ¿Cómo funciona la búsqueda de google?
 R= Cuando hacemos una busqueda en google, no estamos utilizando internet 
@@ -39,4 +39,4 @@ en tiempo real, ya que de lo contrario nuestra busqueda taradía demasiado debid
 a que cada minuto una página nueva es creada, entonces para encontrar tu busqueda 
 la web registra información constantemente y a traves de keywords o palabras clave 
 es como podemos obtener la información que deseamos (aunque el buscador solo está 
-adivinando lo que en verdad quieres saber).
+adivinando lo que en verdad quieres saber). <!-- ---- 5oct | @SRTP: ok ----  -->
